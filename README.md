@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-eos-icons/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-eos-icons" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-eos-icons">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-eos-icons" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-eos-icons">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-eos-icons" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-eos-icons">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-eos-icons" alt="License" />
-    </a>
-</p>
 
 ## About EOS Icons
 
